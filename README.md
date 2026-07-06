@@ -1,6 +1,6 @@
-# Federal Judiciary Backend Data Engine
+# Federal Judiciary Data Engine
 
-**Federal Judiciary Backend Data Engine** is the processing and automation core that powers my project **Federal Judiciary Data Suite**, see it here: https://github.com/SALVADORPOETA/Federal-judiciary-frontend-sm. Built with **Node.js** and **Express**, this engine handles the most critical tasks: from automated navigation in judicial portals to intelligent report generation and natural language processing for gender detection.
+**Federal Judiciary Data Engine** is the processing and automation core that powers my project **Federal Judiciary Data Suite**, see it here: https://github.com/SALVADORPOETA/Federal-judiciary-frontend-sm. Built with **Node.js** and **Express**, this engine handles the most critical tasks: from automated navigation in judicial portals to intelligent report generation and natural language processing for gender detection.
 
 This server is designed to handle complex asynchronous workflows, ensuring that data extraction is precise, structured, and ready for immediate consumption by the frontend.
 
