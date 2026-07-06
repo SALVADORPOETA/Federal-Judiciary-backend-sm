@@ -2,3 +2,13 @@
 .env
 .env.development
 .env.production
+
+# modules
+node_modules/
+
+# sessions
+session_whatsapp/
+wweb_session/
+
+# extra
+extra/
